@@ -72,8 +72,15 @@ public class Main {                  __ Main should always be in the uppercase l
       System.out.print("MY");
                                       ___ printing in a continuation line 
 ```
-
-
+>  The [public static void main(String[] args] is really important for the program to run as this is the main pumping component to run the program perfectly without it we wont be able to execute it but
+>  the program will be compiled but will not executed!!
+ 
+```
+## SYNTAX 
+       [CLASS-NAME]
+class SimpleJavaProgram      
+  |
+  `Keyword to declare a class`
 
 
 
