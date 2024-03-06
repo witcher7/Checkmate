@@ -73,16 +73,28 @@ public class Main {                  __ Main should always be in the uppercase l
                                       ___ printing in a continuation line 
 ```
 >  The [public static void main(String[] args] is really important for the program to run as this is the main pumping component to run the program perfectly without it we wont be able to execute it but
->  the program will be compiled but will not executed!!
+>  The program will be compiled but will not executed!!
  
 ```
-## SYNTAX 
+## SYNTAX
+
+
        [CLASS-NAME]
-class SimpleJavaProgram      
-  |
-  `Keyword to declare a class`
+class SimpleJavaProgram      {
+  |               
+  `Keyword to declare a class` 
+                                             {VOID MEANS IT WILL NOT RETURN ANY VALUE}
+          public    static                    void         main ( String args[]) {
+         /               ` Static methods                      \
+  Access modifier           are executed by JVM                 ----------------------> Represents starting of the program
+which represents            No need to create an object to invoke it.
+visibility                  Hence it saves memory
+                  
+              System.out.println("Hello World")
+             /         |        -------------- used to print the output
+         CLASS-NAME    static member
+                       of class System
+}
+}
 
-
-
-
-
+```
