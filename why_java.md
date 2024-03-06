@@ -61,18 +61,19 @@ TOOLS         |    |  RUNTIME   |                 [JVM]            |
 --------------------------------------------------------------------
                     /* JDK */
 
-+ HOW TO PRINT FIRST LINE OF CODE 
++ HOW TO PRINT FIRST LINE OF CODE
+/* 
 {
-package com.rishabh; // this is for company 
-public class Main {  // Main should always be in the uppercase letter
+package com.rishabh;                 __ this is for company 
+public class Main {                  __ Main should always be in the uppercase letter
    public static void main (String[] args) {
      System.out.println("Hello WOrld");
-            // printing in a new line and make a new line as well
+                                      __ printing in a new line and make a new line as well
             
      System.out.print("MY");
-            // printing in a continuation line 
+                                      ___ printing in a continuation line 
    } 
-}
+*/
 
 
 
