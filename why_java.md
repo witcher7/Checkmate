@@ -61,8 +61,8 @@ TOOLS         |    |  RUNTIME   |                 [JVM]            |
 --------------------------------------------------------------------
                     /* JDK */
 
-{ HOW TO PRINT FIRST LINE OF CODE }
-/*
++ HOW TO PRINT FIRST LINE OF CODE 
+{
 package com.rishabh; // this is for company 
 public class Main {  // Main should always be in the uppercase letter
    public static void main (String[] args) {
@@ -73,7 +73,6 @@ public class Main {  // Main should always be in the uppercase letter
             // printing in a continuation line 
    } 
 }
-*/
 
 
 
