@@ -60,20 +60,18 @@ TOOLS         |    |  RUNTIME   |                 [JVM]            |
 + TOOLKITS)   |              { JRE }                               |
 --------------------------------------------------------------------
                     /* JDK */
-
-+  **HOW TO PRINT FIRST LINE OF CODE**
 ---
-{
++  **HOW TO PRINT FIRST LINE OF CODE**
+```
 package com.rishabh;                 __ this is for company 
 public class Main {                  __ Main should always be in the uppercase letter
    public static void main (String[] args) {
      System.out.println("Hello WOrld");
                                       __ printing in a new line and make a new line as well
             
-     System.out.print("MY");
+      System.out.print("MY");
                                       ___ printing in a continuation line 
-   }
----
+```
 
 
 
