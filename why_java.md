@@ -59,7 +59,7 @@ TOOLS         |    |  RUNTIME   |                 [JVM]            |
 + PLUGINS     |    --------------                                  |
 + TOOLKITS)   |              { JRE }                               |
 --------------------------------------------------------------------
-                    /* JDK */
+                    /* JDK -> DAVA DEVELOPMENT KIT [ JRE --> JAVA RUNTIME ENVIRONMENT [ JVM --> JAVA VIRTUAL MACHINE ] ]  */
 ---
 +  **HOW TO PRINT FIRST LINE OF CODE**
 ```
