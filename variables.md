@@ -36,7 +36,7 @@ public static void main () {
 > short 2 bytes
 > int 4 bytes
 > long 8 bytes
-> float 4 btyes  ---> have to write f in last of digit ;
+> float 4 btyes  --> have to write f in last of digit ;
 > double 8 bytes
 > boolean 1 bit
 > char 2 bytes
