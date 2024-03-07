@@ -32,8 +32,8 @@ public static void main () {
 ```
 
 # DATA TYPE SIZE / you can check the range of these variables
->
-1. byte 1 bytes
+
+>1. byte 1 bytes
 2. short 2 bytes
 3. int 4 bytes
 4. long 8 bytes
