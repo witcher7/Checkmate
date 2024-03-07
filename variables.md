@@ -32,14 +32,14 @@ public static void main () {
 ```
 
 # DATA TYPE SIZE / you can check the range of these variables
-> byte 1 bytes
-> short 2 bytes
-> int 4 bytes
-> long 8 bytes
-> float 4 btyes  --> have to write f in last of digit ;
-> double 8 bytes
-> boolean 1 bit
-> char 2 bytes
+1. byte 1 bytes
+2. short 2 bytes
+3. int 4 bytes
+4. long 8 bytes
+5. float 4 btyes  --> have to write f in last of digit ;
+6. double 8 bytes
+7. boolean 1 bit
+8. char 2 bytes
 
 ### TYPECASTING
 mechanism of converting a value from one type to another
