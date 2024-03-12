@@ -4,7 +4,7 @@
 > - --> UNARY MINUS --> NECCESSARY ( to show the number is negative)
 
 ## INCREMENT AND DECREMENT OPERATOR 
-
-> ++ --> Preincrement [++a] --> ( increment then print )
-> -- --> Postincrement [a++] --> ( print then increment )
+> ++
+> + --> Preincrement [++a] --> INCREMENT  ( increment then print )
+> + --> Postincrement [a++] --> INCREMENT ( print then increment )
 
