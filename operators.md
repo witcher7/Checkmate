@@ -5,6 +5,6 @@
 
 ## INCREMENT AND DECREMENT OPERATOR 
 
-> ++ --> Pre- increment ++a --> ( increment then print )
-> -- --> Post- increment a++ --> ( print then increment )
+> ++ --> Preincrement [++a] --> ( increment then print )
+> -- --> Postincrement [a++] --> ( print then increment )
 
