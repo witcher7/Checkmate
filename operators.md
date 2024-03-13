@@ -30,12 +30,12 @@ System.out.println(--b); // -10
 > %  ( Modulus ) --> B %A will give 0 ( REMAINDER)
 
 ## RELATIONAL OPERATORS
-> == Is Equal to   3==5 returns False
-> != Not Equal to  3!=5 returns True
-> > Greater Than   3>5  returns False
-> < Less Than      3 <5 returns True
-> >= Greater Than or Equal to   3>=5 returns false
-> <= Less Than or Equal To    3<=5 returns True
+1. == Is Equal to   3==5 returns False
+2. != Not Equal to  3!=5 returns True
+3. > Greater Than   3>5  returns False
+4. < Less Than      3 <5 returns True
+5. >= Greater Than or Equal to   3>=5 returns false
+6.<= Less Than or Equal To    3<=5 returns True
 
 ## LOGICAL OPERATORS
 > && (logical and) Called Logical AND Operator. If Both the operands are true, then the condition becomes true. ( A && B ) is false.
