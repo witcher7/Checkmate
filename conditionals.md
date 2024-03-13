@@ -45,7 +45,7 @@ if (num <10){
 
 
 ## SWITCH CASE 
-# IF WE HAVE MULTIPLE SCENARIOS 
+IF WE HAVE MULTIPLE SCENARIOS 
 ```
  int num = 35;
  switch(num) {
