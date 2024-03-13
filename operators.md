@@ -47,4 +47,17 @@ System.out.println(--b); // -10
 > | (OR )
 > ! ( NOT )
 
-## 
+## SHIFT OPERATORS
+1-> << Left Shift --> adding zeroes to right side
+2-> >> Signed Right Shift
+3-> >>> Unsigned Right Shift
+
+
+## ASSIGNMENT OPERATORS
+##  = =>  a=b 
+##  += =>  a=a+b
+##  -= =>  a=a-b
+##  *= =>  a= a*b
+##  /= =>  a = a/b
+
+
