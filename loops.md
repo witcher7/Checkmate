@@ -37,3 +37,32 @@ while (i >=1 ) {
 ```
 
 ## DO WHILE LOOP 
+> # In this Loop we do the task then check the condition for next work ! ( normal looping)
+```
+ int i = 1;
+  do {
+      System.out.println(i);
+      i++;
+   }
+  while(i <=10){
+   //  do the next work here!!
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+## DO WHILE LOOP 
